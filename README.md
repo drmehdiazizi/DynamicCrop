@@ -1,7 +1,7 @@
 # 🎬 DynamicCrop — Video Cropper, Reframing & Tracking
 
 <p align="center">
-  <img src="https://play-lh.googleusercontent.com/1r4fyoul9zbjaSocqSugcwzQghgfgbIDwzwcpBv1KqzJzqxoT_tjZOp1Wk5dSOBK44zig9BKCur5hGScdcccEw=w240-h480-rw" alt="DynamicCrop app icon" width="160">
+  <img src="icon.png" alt="DynamicCrop app icon" width="160">
 </p>
 
 **DynamicCrop is an Android video cropping and reframing app that lets you zoom, pan, rotate, and dynamically change the crop area throughout a video.** Use manual keyframes or automatic keyframe generation to follow moving subjects, adjust video framing, and export your edited videos.
